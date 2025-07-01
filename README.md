@@ -1,97 +1,72 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# EasyTech
 
-# Getting Started
+🧓📱 EasyTech – Technology Made Easy for the Elderly
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+🌿 Introduction
+EasyTech is an app I designed to help elderly people feel confident using technology every day.
+The goal is to create a safe, friendly environment that empowers older adults to stay connected, active, and preserve their most precious memories.
 
-## Step 1: Start Metro
+⚙️ Core Features (Technicality)
+✅ Simple, Customizable Interface
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+Large, clear buttons with an uncluttered layout.
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+Adjustable font sizes (small / medium / large) for visual comfort.
 
-```sh
-# Using npm
-npm start
+✅ Multi-sensory Technology Guidance
 
-# OR using Yarn
-yarn start
-```
+Instructions combining text and voice, so users can easily follow along.
 
-## Step 2: Build and run your app
+✅ Quick Information Search
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+Input queries by text or voice.
 
-### Android
+✅ Daily Missions & Leveling System
 
-```sh
-# Using npm
-npm run android
+The app suggests small daily tasks: look up news, record memories, video call family...
 
-# OR using Yarn
-yarn android
-```
+Completing missions earns points and levels, motivating users to learn more.
 
-### iOS
+✅ Emergency One-Tap Call Button
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+Always visible on the main screen for safety.
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+✅ Daily Task Tracker & Digital Memories
 
-```sh
-bundle install
-```
+Set reminders, log activities, and save photos and stories.
 
-Then, and every time you update your native dependencies, run:
+✅ Gemini AI Assistant
 
-```sh
-bundle exec pod install
-```
+An integrated Gemini API chatbot answers any question, from tech help to lifestyle advice.
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+💡 Creativity Highlights
+✨ Daily Missions and Levels
+Gamifies learning technology, making it fun and rewarding, not intimidating.
 
-```sh
-# Using npm
-npm run ios
+✨ Adjustable Text Size
+Personalized experience that respects diverse vision needs.
 
-# OR using Yarn
-yarn ios
-```
+✨ Gemini AI Chatbot
+Provides natural, fast, conversational assistance, beyond typical help centers.
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+✨ Persistent Emergency Button
+Improves safety and peace of mind for elderly users.
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+🛠️ Development Journey (Storytelling)
+I started this project after realizing how much my grandparents struggled with smartphones—complicated menus, tiny fonts, and no one to ask for help.
+I sketched out an ultra-simple interface and built the first MVP using:
 
-## Step 3: Modify your app
+React + Firebase for data management.
 
-Now that you have successfully run the app, let's make changes!
+Gemini API for a conversational AI assistant.
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+A daily mission and leveling system to keep learning engaging.
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+During early user testing, seniors shared positive feedback:
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+“Thanks to the levels and tasks, I actually want to use my phone every day.”
 
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+I kept refining:
+✅ Added adjustable font sizes.
+✅ Simplified the signup process.
+✅ Optimized performance for older devices.
