@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "352129455446",
+    "firebase_url": "https://easytech-43b98-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "easytech-43b98",
+    "storage_bucket": "easytech-43b98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352129455446:android:0d2b7137d6d97e07d7b2f7",
+        "android_client_info": {
+          "package_name": "com.easytech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJObpQ5iGO-ol5OVx_0Ie6nQbmSfMpR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352129455446:android:cf6d22b3f9e3c245d7b2f7",
+        "android_client_info": {
+          "package_name": "com.easytech.v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJObpQ5iGO-ol5OVx_0Ie6nQbmSfMpR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
