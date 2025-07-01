@@ -90,7 +90,7 @@ const ChatBot = () => {
   const [reportDetails, setReportDetails] = useState('');
   const [isSubmittingReport, setIsSubmittingReport] = useState(false);
 
-  const GEMINI_API_KEY = 'AIzaSyD7Xqg9tpOaFZk11WSDoivTOBUmZG86gHE';
+  const GEMINI_API_KEY = '';
 
   const scrollViewRef = useRef(null);
   const textInputRef = useRef(null);
