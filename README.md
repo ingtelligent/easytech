@@ -1,72 +1,87 @@
-# EasyTech
-
 🧓📱 EasyTech – Technology Made Easy for the Elderly
-
 🌿 Introduction
-EasyTech is an app I designed to help elderly people feel confident using technology every day.
-The goal is to create a safe, friendly environment that empowers older adults to stay connected, active, and preserve their most precious memories.
+EasyTech is a mobile app built to help elderly users feel confident and comfortable using technology. It offers a safe, friendly environment where older adults can stay connected, learn at their own pace, and preserve meaningful memories.
 
-⚙️ Core Features (Technicality)
+🗣 Note: The current version is designed for Vietnamese users only.
+🌍 An international English version will be released in a future update.
+
+📲 Download Now
+👉 Get EasyTech on Google Play
+
+(Supports Android 7.0 and above)
+
+⚙️ Core Features
 ✅ Simple, Customizable Interface
+Large, clear buttons.
 
-Large, clear buttons with an uncluttered layout.
+Adjustable text sizes: Small / Medium / Large.
 
-Adjustable font sizes (small / medium / large) for visual comfort.
+Minimal, easy-to-understand layout.
 
-✅ Multi-sensory Technology Guidance
+✅ Multi-sensory Instructions
+Combines text and voice to guide users step-by-step.
 
-Instructions combining text and voice, so users can easily follow along.
+✅ Smart Search (Text or Voice)
+Ask questions with text or voice input and get instant help.
 
-✅ Quick Information Search
+✅ Daily Missions & Leveling
+Encourages learning with daily tasks (e.g., call family, check the news).
 
-Input queries by text or voice.
+Earn points and level up to stay motivated.
 
-✅ Daily Missions & Leveling System
+✅ One-Tap Emergency Call
+A clearly visible emergency button for quick help at any time.
 
-The app suggests small daily tasks: look up news, record memories, video call family...
-
-Completing missions earns points and levels, motivating users to learn more.
-
-✅ Emergency One-Tap Call Button
-
-Always visible on the main screen for safety.
-
-✅ Daily Task Tracker & Digital Memories
-
-Set reminders, log activities, and save photos and stories.
+✅ Memory Vault & Reminders
+Save photos, stories, and track daily activities or reminders.
 
 ✅ Gemini AI Assistant
+A built-in conversational assistant for both tech support and lifestyle advice.
 
-An integrated Gemini API chatbot answers any question, from tech help to lifestyle advice.
+💡 Creative Highlights
+Gamified Learning – Missions and levels make tech learning fun and engaging.
 
-💡 Creativity Highlights
-✨ Daily Missions and Levels
-Gamifies learning technology, making it fun and rewarding, not intimidating.
+Accessibility First – Adjustable text sizes and clear visuals for all eyesight levels.
 
-✨ Adjustable Text Size
-Personalized experience that respects diverse vision needs.
+AI Support – Gemini chatbot gives natural, friendly answers.
 
-✨ Gemini AI Chatbot
-Provides natural, fast, conversational assistance, beyond typical help centers.
+Safety Built In – Always-on emergency button for peace of mind.
 
-✨ Persistent Emergency Button
-Improves safety and peace of mind for elderly users.
+🛠️ Development Journey
+“I built EasyTech after seeing how my grandparents struggled with modern smartphones—confusing menus, small text, and no one to help.”
 
-🛠️ Development Journey (Storytelling)
-I started this project after realizing how much my grandparents struggled with smartphones—complicated menus, tiny fonts, and no one to ask for help.
-I sketched out an ultra-simple interface and built the first MVP using:
+Built using:
 
-React + Firebase for data management.
+React Native for cross-platform development.
 
-Gemini API for a conversational AI assistant.
+Firebase for cloud sync and real-time data.
 
-A daily mission and leveling system to keep learning engaging.
+Gemini API for conversational AI help.
 
-During early user testing, seniors shared positive feedback:
+Tested with elderly users and continuously improved based on feedback:
 
-“Thanks to the levels and tasks, I actually want to use my phone every day.”
+📏 Added font size customization.
 
-I kept refining:
-✅ Added adjustable font sizes.
-✅ Simplified the signup process.
-✅ Optimized performance for older devices.
+✨ Streamlined the onboarding process.
+
+📱 Optimized for older or slower devices.
+
+🚀 How to Install
+✅ From Google Play (Recommended)
+Visit the Google Play Store.
+
+Tap Install.
+
+Open the app and follow the on-screen instructions.
+
+🧑‍💻 For Developers (Manual Setup)
+bash
+Sao chép
+Chỉnh sửa
+git clone https://github.com/yourusername/easytech-app.git
+cd easytech-app
+npm install
+npx react-native run-android
+🙌 Join the Mission
+Help us make technology inclusive and enjoyable for every generation.
+Feedback and contributions are welcome!
