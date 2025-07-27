@@ -11,7 +11,7 @@
 
 ## 📲 Download Now
 
-👉 [**Get EasyTech on Google Play**]([https://play.google.com/store/apps/details?id=com.easytech.app](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share))  
+👉 [**Get EasyTech on Google Play**](https://play.google.com/store/apps/details?id=com.easytech.app](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share))  
 > *(Supports Android 7.0 and above)*
 
 ---
@@ -72,7 +72,7 @@
 ## 🚀 How to Install
 
 ### ✅ From Google Play (Recommended)
-1. Visit the [Google Play Store]([https://play.google.com/store/apps/details?id=com.easytech.app](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share)).
+1. Visit the [Google Play Store](https://play.google.com/store/apps/details?id=com.easytech.app](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share)).
 2. Tap **Install**.
 3. Open the app and follow the on-screen instructions.
 
@@ -82,6 +82,7 @@ git clone https://github.com/yourusername/easytech-app.git
 cd easytech-app
 npm install
 npx react-native run-android
+
 <div align="center">
   <a href="https://shipwrecked.hackclub.com/?t=ghrm" target="_blank">
     <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/739361f1d440b17fc9e2f74e49fc185d86cbec14_badge.png" 
