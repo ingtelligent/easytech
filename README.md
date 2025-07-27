@@ -11,7 +11,7 @@
 
 ## 📲 Download Now
 
-👉 [**Get EasyTech on Google Play**]([https://play.google.com/store/apps/details?id=com.easytech.app](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share)](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share))  
+👉 [**Get EasyTech on Google Play**](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share)  
 > *(Supports Android 7.0 and above)*
 
 ---
@@ -72,7 +72,7 @@
 ## 🚀 How to Install
 
 ### ✅ From Google Play (Recommended)
-1. Visit the [Google Play Store]([https://play.google.com/store/apps/details?id=com.easytech.app](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share)](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share)).
+1. Visit the [Google Play Store](https://play.google.com/store/apps/details?id=com.easytech.v2&pcampaignid=web_share).
 2. Tap **Install**.
 3. Open the app and follow the on-screen instructions.
 
