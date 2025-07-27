@@ -1,87 +1,84 @@
-🧓📱 EasyTech – Technology Made Easy for the Elderly
-🌿 Introduction
-EasyTech is a mobile app built to help elderly users feel confident and comfortable using technology. It offers a safe, friendly environment where older adults can stay connected, learn at their own pace, and preserve meaningful memories.
+# 🧓📱 EasyTech – Technology Made Easy for the Elderly
 
-🗣 Note: The current version is designed for Vietnamese users only.
-🌍 An international English version will be released in a future update.
+## 🌿 Introduction
 
-📲 Download Now
-👉 Get EasyTech on Google Play
+**EasyTech** is a mobile app built to help elderly users feel **confident and comfortable** using technology. It offers a **safe, friendly environment** where older adults can stay connected, learn at their own pace, and preserve meaningful memories.
 
-(Supports Android 7.0 and above)
+> 🗣 **Note:** The current version is **designed for Vietnamese users only**.  
+> 🌍 An **international English version** will be released in a future update.
 
-⚙️ Core Features
-✅ Simple, Customizable Interface
-Large, clear buttons.
+---
 
-Adjustable text sizes: Small / Medium / Large.
+## 📲 Download Now
 
-Minimal, easy-to-understand layout.
+👉 [**Get EasyTech on Google Play**](https://play.google.com/store/apps/details?id=com.easytech.app)  
+> *(Supports Android 7.0 and above)*
 
-✅ Multi-sensory Instructions
-Combines text and voice to guide users step-by-step.
+---
 
-✅ Smart Search (Text or Voice)
-Ask questions with text or voice input and get instant help.
+## ⚙️ Core Features
 
-✅ Daily Missions & Leveling
-Encourages learning with daily tasks (e.g., call family, check the news).
+### ✅ Simple, Customizable Interface
+- Large, clear buttons.
+- Adjustable text sizes: **Small / Medium / Large**.
+- Minimal, easy-to-understand layout.
 
-Earn points and level up to stay motivated.
+### ✅ Multi-sensory Instructions
+- Combines **text and voice** to guide users step-by-step.
 
-✅ One-Tap Emergency Call
-A clearly visible emergency button for quick help at any time.
+### ✅ Smart Search (Text or Voice)
+- Ask questions with **text or voice input** and get instant help.
 
-✅ Memory Vault & Reminders
-Save photos, stories, and track daily activities or reminders.
+### ✅ Daily Missions & Leveling
+- Encourages learning with daily tasks (e.g., call family, check the news).
+- Earn points and level up to stay motivated.
 
-✅ Gemini AI Assistant
-A built-in conversational assistant for both tech support and lifestyle advice.
+### ✅ One-Tap Emergency Call
+- A clearly visible **emergency button** for quick help at any time.
 
-💡 Creative Highlights
-Gamified Learning – Missions and levels make tech learning fun and engaging.
+### ✅ Memory Vault & Reminders
+- Save **photos**, **stories**, and track daily **activities or reminders**.
 
-Accessibility First – Adjustable text sizes and clear visuals for all eyesight levels.
+### ✅ Gemini AI Assistant
+- A built-in **AI chatbot** for both **tech support** and **lifestyle advice**.
 
-AI Support – Gemini chatbot gives natural, friendly answers.
+---
 
-Safety Built In – Always-on emergency button for peace of mind.
+## 💡 Creative Highlights
 
-🛠️ Development Journey
-“I built EasyTech after seeing how my grandparents struggled with modern smartphones—confusing menus, small text, and no one to help.”
+- 🎮 **Gamified Learning** – Missions and levels make tech learning fun and engaging.
+- 👓 **Accessibility First** – Adjustable text sizes and clear visuals for all eyesight levels.
+- 🤖 **AI Support** – Gemini chatbot gives natural, friendly answers.
+- 🛟 **Safety Built In** – Always-on emergency button for peace of mind.
 
-Built using:
+---
 
-React Native for cross-platform development.
+## 🛠️ Development Journey
 
-Firebase for cloud sync and real-time data.
+> “I built EasyTech after seeing how my grandparents struggled with modern smartphones — confusing menus, small text, and no one to help.”
 
-Gemini API for conversational AI help.
+**Built with:**
+- ⚛️ React Native – cross-platform UI
+- 🔥 Firebase – real-time cloud sync
+- 🧠 Gemini API – conversational AI
 
-Tested with elderly users and continuously improved based on feedback:
+**User-driven improvements:**
+- 📏 Font size customization
+- ✨ Streamlined onboarding
+- 📱 Performance optimized for older devices
 
-📏 Added font size customization.
+---
 
-✨ Streamlined the onboarding process.
+## 🚀 How to Install
 
-📱 Optimized for older or slower devices.
+### ✅ From Google Play (Recommended)
+1. Visit the [Google Play Store](https://play.google.com/store/apps/details?id=com.easytech.app).
+2. Tap **Install**.
+3. Open the app and follow the on-screen instructions.
 
-🚀 How to Install
-✅ From Google Play (Recommended)
-Visit the Google Play Store.
-
-Tap Install.
-
-Open the app and follow the on-screen instructions.
-
-🧑‍💻 For Developers (Manual Setup)
-bash
-Sao chép
-Chỉnh sửa
+### 🧑‍💻 For Developers (Manual Setup)
+```bash
 git clone https://github.com/yourusername/easytech-app.git
 cd easytech-app
 npm install
 npx react-native run-android
-🙌 Join the Mission
-Help us make technology inclusive and enjoyable for every generation.
-Feedback and contributions are welcome!
